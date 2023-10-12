@@ -1,0 +1,10 @@
+h1{
+    color:red;
+    transition-duration: 5s;
+    text-align: center;
+}
+h1:hover{
+    /* transform: rotateX(90deg);
+    transform: rotateY(90deg); */
+    transform:scaleX(2);
+}
